@@ -1,7 +1,5 @@
 # Currículo Web Interativo
 
-![Preview do currículo](media/foto.jpg)
-
 Um currículo web moderno e interativo que cumpre todos os requisitos da atividade:
 
 - HTML semântico
@@ -21,9 +19,3 @@ Um currículo web moderno e interativo que cumpre todos os requisitos da ativida
   - Persistência de dados com localStorage  
 ✅ Mídias acessíveis (imagem e vídeo com descrição)  
 ✅ Formulário funcional  
-
-## Como Usar
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/jaogz/curriculo-web.git
